@@ -1,0 +1,50 @@
+// user Login page and first page off website
+
+http://127.0.0.1/work/shoping_bazar/index.php
+
+
+
+
+// user registration page
+
+http://127.0.0.1/work/shoping_bazar/index.php/Auth/register
+
+
+
+//  website  homepage 
+
+http://127.0.0.1/work/shoping_bazar/index.php/HomePage/homepage
+
+
+
+// website about page
+
+http://127.0.0.1/work/shoping_bazar/index.php/HomePage/about
+
+
+
+// website contact page
+
+http://127.0.0.1/work/shoping_bazar/index.php/HomePage/contact
+
+//admin registration
+
+http://127.0.0.1/work/shoping_bazar/index.php/AdminCtrl/adminsignup
+
+// admin login
+
+http://127.0.0.1/work/shoping_bazar/index.php/AdminCtrl/adminLogin
+
+
+// admin dashboard
+
+http://127.0.0.1/work/shoping_bazar/index.php/AdminCtrl/dashboard
+
+//user list 
+
+http://127.0.0.1/work/shoping_bazar/index.php/AdminCtrl/userList
+
+
+//dmin user
+
+http://127.0.0.1/work/shoping_bazar/index.php/AdminCtrl/adminList
